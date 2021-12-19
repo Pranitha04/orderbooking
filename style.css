@@ -15,7 +15,7 @@ body
 	float: right;
 }
 .nav-link:hover{
-    background-color:blue;
+    background-color:red;
 }
 .nav-link {
 	font-family:'Oxygen',sans-serif;
